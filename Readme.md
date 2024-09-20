@@ -7,6 +7,13 @@ Education
 - [School 2](https://www.uic.edu.cn/)
 - [School 3](http://www.sz2g.com/)
 
+## Research Interests
+
+- Data Science
+- Machine Learning
+- Media and Communications
+- Environmental Studies
+
 
 
 
